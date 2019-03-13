@@ -2,8 +2,9 @@ class Book
   def initialized(title)
     @title = title
   end
-  
+
   def title
+    @title
     puts "And Then There Were None"
   ends
 end
