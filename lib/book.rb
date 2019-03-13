@@ -29,5 +29,3 @@ class Book
   end
   end
 end
-
-Book.new
