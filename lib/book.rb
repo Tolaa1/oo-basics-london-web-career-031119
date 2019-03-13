@@ -1,5 +1,5 @@
 class Book
-  Book.new("And Then There Were None")
+  #Book.new("And Then There Were None")
   def initialized(title)
     @title = title
   end
